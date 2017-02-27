@@ -10,7 +10,7 @@ Nodebot(Nestbot) - A chatbot in development to answer most of the home related q
 * Start the server with `node nestbot.js`
 
 ## Wit.ai Quick
-* Please follow https://wit.ai/docs/quickstart for a quickstart.
+* Please follow https://wit.ai/docs for a quickstart.
 
 ## Facebook Messenger bot setup instructions
 * https://developers.facebook.com/docs/messenger-platform
