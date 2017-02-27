@@ -1,7 +1,7 @@
 {
   "name": "nestbot",
   "version": "0.0.1",
-  "description": "nestbot api developed using Wit.ai Node.js facebook SDK",
+  "description": "nestbot api developed using Wit.ai, Node.js facebook SDK",
   "keywords": [
     "wit",
     "wit.ai",
@@ -16,8 +16,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node nestbot.js"
   },
-  "repository": "https://github.com/wit-ai/node-wit",
-  "author": "Aneesh <devvapp@gmail.com>",
+  "repository": "https://github.com/devvapp/nodebot",
+  "author": "Aneesh<devvapp@gmail.com>",
   "dependencies": {
     "asyncawait": "^1.0.6",
     "body-parser": "^1.16.1",
