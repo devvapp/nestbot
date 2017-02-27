@@ -8,3 +8,15 @@ Nodebot - A chatbot in development to answer most of the home related queries li
 * Execute `npm install --save node-wit` 
 * Edit the config.js with your api values
 * Start the server with `node nestbot.js`
+
+## Wit.ai Quick
+* Please follow https://wit.ai/docs/quickstart for a quickstart.
+
+## Facebook Messenger bot setup instructions
+* https://developers.facebook.com/docs/messenger-platform
+
+## Sample conversations
+* How's the weather in Chicago?
+* News updates -> next
+* Still more to come...
+
