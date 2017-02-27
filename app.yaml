@@ -9,5 +9,5 @@ resources:
   memory_gb: 1.08
   disk_size_gb: 10
   
-skip_files:
+skip_files: 
   - ^(.*/)?.*/node_modules/.*$
