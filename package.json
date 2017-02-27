@@ -1,0 +1,44 @@
+{
+  "name": "nestbot",
+  "version": "0.0.1",
+  "description": "nestbot api developed using Wit.ai Node.js facebook SDK",
+  "keywords": [
+    "wit",
+    "wit.ai",
+    "bot",
+    "botengine",
+    "bots",
+    "nlp",
+    "automation"
+  ],
+  "main": "nestbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node nestbot.js"
+  },
+  "repository": "https://github.com/wit-ai/node-wit",
+  "author": "Aneesh <devvapp@gmail.com>",
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "hackernews-api": "^1.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "memory-cache": "^0.1.6",
+    "node-wit": "^4.2.0",
+    "request": "^2.79.0",
+    "uuid": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-es2017": "^6.22.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2",
+    "sinon": "^1.17.6"
+  }
+}
